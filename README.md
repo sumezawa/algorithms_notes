@@ -1,4 +1,4 @@
-# Algorithm Notes
+# Algorithms Notes
 ### 
 
 
