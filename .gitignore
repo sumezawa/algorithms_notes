@@ -6,6 +6,8 @@
 *.ko
 *.obj
 *.elf
+*.slo
+*.lo
 
 # Linker output
 *.ilk
@@ -21,6 +23,7 @@
 *.a
 *.la
 *.lo
+*.lai
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -35,6 +38,10 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Fortran module files
+*.mod
+*.smod
 
 # Debug files
 *.dSYM/
