@@ -1,4 +1,4 @@
-# Algorithms Notes
+# My Programming Notes
 ### 
 
 
